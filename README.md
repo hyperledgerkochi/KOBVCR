@@ -7,7 +7,7 @@ Version  |   TBD
 A verifiable credential can represent all of the same information that a physical credential represents.A project under KochiOrgBook which can be considered as a database where all VCs of various registered associations are going to reside.It provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
 
 ### Dependent Projects
-
+TBD
 
 ### Motivation
 - This project is made in the objective of convenience of verifiable credential through Web with all the benefits of a physical credential. Verifiable credentials are a way to establish trust. Verifiable indicates the credential is rendered tamper-evident and in a manner whereby the issuer can be cryptographically verified. So standardization of digital claims makes it more reliable. KOBVCR focuses on
