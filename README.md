@@ -19,7 +19,7 @@ TBD
 Incubation
 
 ### Solution
- - There are four roles supported by verifiable credentials:* 
+ - There are four roles supported by verifiable credentials:
     - Issuer
     - Verifier
     - Holder
