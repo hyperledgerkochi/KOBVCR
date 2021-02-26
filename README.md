@@ -29,10 +29,6 @@ Incubation
 - A **verifier**, sometimes referred to as a relying party, needs to validate some information, they can request from the holder some data to meet their verification requirements. Depending on the capabilities of the underlying technology, the holder is free to present the claims contained in their verifiable credentials using any number of techniques to preserve their privacy.
 - A **Verifiable Data Registry** commonly a decentralized ledger which serves as a system for mediating the creation and verification of issuer identifiers, keys and other relevant data like verifiable credential schemas and revocation registries.
 
-
-![image of vcr](https://github.com/Noureen124/KOBVCR/blob/master/vcr%20pic.png)
-
-
 Here, verifiable credentials of registered entity is going to reside with a set of API calls for performing various tasks.
 
 ### Contributors
