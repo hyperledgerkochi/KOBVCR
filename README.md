@@ -41,7 +41,15 @@ Incubation
 
 
 
-Here, verifiable credentials of registered entity is going to reside with a set of API calls for performing various tasks.
+Here, verifiable credentials of registered entity is going to reside with a set of API calls for performing various tasks. It receives API calls from KOBAW and KOBConnect (Mobile app) while searching some credentials in VCR.
+
+- VCR is public data but private in nature.
+- VCR is created for each association and also for the KochiOrgBook level. 
+    - An association VCR contains the information about the proofs each association can issue;
+    - KOB level VCR contains information about the individual citizen.
+- Orgbook level VCR is a distributed VCR, all nodes of our public identity utility is distributed , whereas VCR for association is purely held and managed by the association itself.
+
+
 
 ### Contributors
 [Noureen Rahman](https://github.com/Noureen124)
