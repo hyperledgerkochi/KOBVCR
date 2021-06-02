@@ -11,7 +11,8 @@ There are four roles supported by verifiable credentials:
 
 
 **<p style="text-align: center;">
-![vcr pic](images/vcr pic.png)
+![vcr pic](https://github.com/Noureen124/KOBVCR/Website/images/vcr%20pic.png)
+
 </p>**
 
 
