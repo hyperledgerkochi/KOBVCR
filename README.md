@@ -7,7 +7,11 @@ Version  |   TBD
 A verifiable credential can represent all of the same information that a physical credential represents.A project under KochiOrgBook which can be considered as a database where all VCs of various registered associations are going to reside.It provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
 
 ### Dependent Projects
-TBD
+KOBPIU
+KOBAW
+KOBConnect
+KOBVON
+KOBSearch
 
 ### Motivation
 - This project is made in the objective of convenience of verifiable credential through Web with all the benefits of a physical credential. Verifiable credentials are a way to establish trust. Verifiable indicates the credential is rendered tamper-evident and in a manner whereby the issuer and also the holder can be cryptographically verified. So standardization of digital claims makes it more reliable. KOBVCR focuses on
@@ -40,7 +44,8 @@ Incubation
 Here, verifiable credentials of registered entity is going to reside with a set of API calls for performing various tasks.
 
 ### Contributors
-Noureen Rahman MK(https://github.com/Noureen124)
+[Noureen Rahman](https://github.com/Noureen124)
+
 
 ### Testing the projects
 TBD
