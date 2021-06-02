@@ -23,11 +23,7 @@ A verifiable credential can represent all of the same information that a physica
 Incubation
 
 ### Solution
- There are four roles supported by verifiable credentials:
-    - Issuer
-    - Verifier
-    - Holder
-    - Verifiable Data Registry
+There are four roles supported by verifiable credentials: *Issuer, Verifier, Holder, Verifiable Data Registry.*
 - The **issuer**, or the authority on some information about a subject (e.g a person), issues a credential containing this information in the form of claims to a holder. 
 - The **holder** is responsible for storing and managing that credential. 
 - A **verifier**, sometimes referred to as a relying party, needs to validate some information, they can request from the holder some data to meet their verification requirements. Depending on the capabilities of the underlying technology, the holder is free to present the claims contained in their verifiable credentials using any number of techniques to preserve their privacy.
