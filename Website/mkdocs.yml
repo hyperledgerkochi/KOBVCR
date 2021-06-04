@@ -1,0 +1,21 @@
+site_name: KOBVCR
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+
+# Use extra CSS to customize styles, based on theme
+extra_css:
+  - 'css/extra-material-theme.css'
+
+nav:
+    -Overview: index.md
+    -License: license.md
+    -Dependent Projects: dependent.md
+    -Motivation: motivation.md
+    -Solution: solution.md
+    -Status of the project: status.md
+    -Contributors: contributors.md
+    -Testing: testing.md
+    -References: references.md
